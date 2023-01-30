@@ -168,25 +168,9 @@ hr {
     min-height: 500px;
     position: relative;
     min-width: 500px;
-    top: -400px;
-    left: 400px;
+    top: -150px;
+    left: -180px;
    
-}
-
-
-
-.work-3 {
-    background-image: url(./images/javascript\ stopwatch.png);
-    position: absolute;
-    background-size: 500px;
-   
-    background-repeat: no-repeat;
-    min-height: 500px;
-    position: relative;
-    min-width: 500px;
-    top: -400px;
-    left: 100px;
-    
 }
 
 
